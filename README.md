@@ -1,13 +1,2 @@
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Nodemailer :
+Sending mail to any original gmail-account without using any third party app.
